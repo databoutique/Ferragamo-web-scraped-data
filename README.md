@@ -1,0 +1,14 @@
+# Ferragamo web scraped data 
+
+## About the website
+
+Meticulously crafted with attention to detail, **Salvatore Ferragamo** is a premier luxury Italian brand widely recognized for its collection of sophisticated shoes and leather goods. Founded in Florence, Italy in 1927 by expert shoemaker Salvatore Ferragamo, the brand has impeccably styled the feet of various Hollywood celebrities, royalty, and socialites globally. Salvatore Ferragamo Company was listed in 2011 on the **Milan Stock Exchange** under the symbol **SFER**. The initial public offering was made on July 5, 2011 with a market capitalization approximating USD 2.22 billion. For more detailed insights about the companys origin, growth and current undertakings, interested parties may refer to its [Wikipedia](https://en.wikipedia.org/wiki/Salvatore_Ferragamo_S.p.A.) or [Bloomberg](https://www.bloomberg.com/quote/SFER:IM) pages.
+
+Salvatore Ferragamo faces stiff competition from several prominent luxury brands having direct business rivalry in the fashion industry. Some of its main competitors include **[Gucci](https://www.gucci.com)**, **[Prada](https://www.prada.com)**, and **[Louis Vuitton](https://www.louisvuitton.com)**. These competitors closely match Ferragamos business model as they also offer high-end, luxury fashion products championing exceptional craftsmanship and design. Playing an equally vital role in dictating global fashion trends, the respective business strategies and outlook of these competitors can be further explored on their dedicated Wikipedia ([Gucci](https://en.wikipedia.org/wiki/Gucci), [Prada](https://en.wikipedia.org/wiki/Prada), and [Louis Vuitton](https://en.wikipedia.org/wiki/Louis_Vuitton)) and Bloomberg ([Gucci](https://www.bloomberg.com/quote/GUC:IM), [Prada](https://www.bloomberg.com/quote/1913:HK), and [Louis Vuitton](https://www.bloomberg.com/quote/MC:FP)) pages. 
+
+The intelligent use of web-scraped data from the Ferragamo website can play a significant role in strategic decision making. With **data-driven insights**, businesses can analyze product specifications, such as **prices and discounts**, to make informed estimations on market trends, demand patterns, and customer preferences. A thorough understanding of price structures across various product categories, discerning seasonal trends, and promotional tactics adopted by Ferragamo can guide competitors in shaping their pricing strategies. Moreover, this data can be invaluable to market research agencies tracking luxury goods market expansion, e-commerce companies deciding on product listings, pricing for resellers, and even consumers seeking the best deals and discount offers.
+
+
+## Link to **dataset**
+
+[Ferragamo dataset](https://www.databoutique.com/buy-data-list-subset/Ferragamo%20web%20scraped%20data/r/recMkbD6t0YDnGDyM)
